@@ -1,4 +1,4 @@
-# Hello, Machine Learning
+# Machine Learning
 
 In deze repository staan projecten die ik heb gemaakt
 om meer ervaring op te doen met machine learning.
